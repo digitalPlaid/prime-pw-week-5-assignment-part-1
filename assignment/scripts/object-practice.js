@@ -22,6 +22,7 @@ console.log('A little about me:', me);
 
 
 
+
 /* 3. Nested arrays
   - Console.log your first favorite food
   - Console.log your last favorite food 
